@@ -2,23 +2,23 @@
 layout: about
 title: about
 permalink: /
-description: <a href="#">Affiliations</a>. Address. Contacts. Moto. Etc.
+description: Ph.D. Candidate. <a href="https://www.unr.edu">University of Nevada, Reno</a>.
 
 profile:
   align: right
-  image: prof_pic.jpg
-  address: >
-    <p>555 your office number</p>
-    <p>123 your address street</p>
-    <p>Your City, State 12345</p>
+  image: Isayas_Adhanom.jpg
+  # address: >
+  #   <p>1664 N. Virginia Street</p>
+  #   <p>Department of Computer Science, MS 0171</p>
+  #   <p>Reno, NV 89512</p>
 
-news: true  # includes a list of news items
+news: true # includes a list of news items
 selected_papers: true # includes a list of papers marked as "selected={true}"
-social: true  # includes social icons at the bottom of the page
+social: true # includes social icons at the bottom of the page
 ---
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+I am a Ph.D. candidate in the Department of Computer Science and Engineering at the university of Nevada, Reno. I am a member of the [Human-computer Interaction (HCI) lab](https://hcilab.cse.unr.edu/) and the [Center for Integrative Neuroscience](https://www.unr.edu/neuroscience/research/center), and I am advised by [Dr. Eelke Folmer](https://www.eelke.com/). Previously I completed my M.Sc. in Computer Science and Engineering at the University of Nevada, Reno and my B.Sc. in Computer Engineering at Eritrea Institute of Technology.
 
-Put your address / P.O. box / other info right below your picture. You can also disable any these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
+My research interest lies at the intersection of virtual/augmented reality, eye movement tracking and machine learning. I am especially interested on using eye movement tracking to solve some of the fundamental problems of VR/AR including issues related to cyber sickness, rendering and accessibility. You can see some of my published research work [here](/publications/).
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](http://fortawesome.github.io/Font-Awesome/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+Outside research, I have been working to improve educational equity for speakers of my native language Tigrinya - a very low-resourced language. To this end I have worked with an e-learning company to adapt and produce more than 1,000 (Yes 1,000!) educational video lessons and accompanying quizzes to Tigrinya. These educational lessons cover multiple subjects including Math, Computer Science, Information and Communication Technology (ICT), Physics, Chemistry and Social science. I have also worked with WickWick publishers - a Finnish publishing company - to adapt four storybooks to Tigrinya with the aim of alleviating the lack of reading materials in the language and hopefully cultivating a reading habit on young speakers of the language. You can check some of the recently published storybooks [here](https://amzn.to/3dXVMX1) and [here](https://amzn.to/3sWssUP).
