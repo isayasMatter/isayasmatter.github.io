@@ -31,6 +31,13 @@
                 {% endif %}
               </div>
               {% endif %}
+              {% if project.pdf %}
+              <div class="github-icon">
+                <div class="icon" data-toggle="tooltip" title="PDF">
+                  <a href="{{ project.pdf }}"><i class="fab fa-github file-pdf"></i></a>
+                </div>
+              </div>
+              {% endif %}
             </div>
           </div>
         </div>

@@ -3,8 +3,10 @@ layout: page
 title: GazeMetrics
 description: An open-source tool for monitoring data quality of HMD based eye trackers
 img: /assets/img/gazemetrics.jpg
+github: https://github.com/isayasMatter/GazeMetrics
+pdf: https://dl.acm.org/doi/abs/10.1145/3379156.3391374
 importance: 1
-category: work
+category: research
 ---
 
 Every project has a beautiful feature showcase page.

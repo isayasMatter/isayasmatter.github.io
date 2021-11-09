@@ -1,9 +1,10 @@
 ---
 layout: page
-title: Foveated FOV
-description: Foveated field-of-view (FOV) restriction for comfortable VR experiences
-img: /assets/img/foveated.jpg
-importance: 2
+title: Eye Gaze Prediction
+description: Using deep learning to predict eye gaze for Facebook's OpenEDS 2020 challenge
+img: /assets/img/3pp.jpg
+github: https://github.com/isayasMatter/Gaze-Prediction
+importance: 11
 category: research
 ---
 

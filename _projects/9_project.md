@@ -1,10 +1,10 @@
 ---
 layout: page
-title: Foveated FOV
-description: Foveated field-of-view (FOV) restriction for comfortable VR experiences
-img: /assets/img/foveated.jpg
-importance: 2
-category: research
+title: E-Learning in Tigrinya
+description: Development of lessons in Tigrinya for grades 6-9.
+img: /assets/img/3pp.jpg
+importance: 10
+category: other
 ---
 
 Every project has a beautiful feature showcase page.

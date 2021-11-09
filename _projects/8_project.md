@@ -1,9 +1,9 @@
 ---
 layout: page
-title: Foveated FOV
-description: Foveated field-of-view (FOV) restriction for comfortable VR experiences
-img: /assets/img/foveated.jpg
-importance: 2
+title: Macular Degeneration + VR
+description: 3PP locomotion using full-body skeletal tracking with a single depth camera (Azure Kinect)
+img: /assets/img/3pp.jpg
+importance: 8
 category: research
 ---
 

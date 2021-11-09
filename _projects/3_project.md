@@ -4,7 +4,7 @@ title: VR VOMS
 description: VR based Vestibular/Ocular Motor Screening (VOMS) for diagnosis of concussion
 img: /assets/img/7.jpg
 importance: 3
-category: work
+category: research
 ---
 
 Every project has a beautiful feature showcase page.

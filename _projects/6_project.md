@@ -1,10 +1,10 @@
 ---
 layout: page
-title: VR fov x sex
-description: The effect of field-of-view (FOV) restriction on sex bias in VR sickness and spatial navigation performance
-img: /assets/img/sickness.jpg
-importance: 3
-category: fun
+title: Spatial Learning in VR
+description: The effect of FOV restriction and sex on spatial learning in VR
+img: /assets/img/watermaze.jpg
+importance: 6
+category: research
 ---
 
 Every project has a beautiful feature showcase page.

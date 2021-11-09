@@ -1,10 +1,10 @@
 ---
 layout: page
-title: Foveated FOV
-description: Foveated field-of-view (FOV) restriction for comfortable VR experiences
-img: /assets/img/foveated.jpg
-importance: 2
-category: research
+title: Literary Works
+description: Children books and other literary works I have worked on over the years
+img: /assets/img/3pp.jpg
+importance: 11
+category: other
 ---
 
 Every project has a beautiful feature showcase page.
