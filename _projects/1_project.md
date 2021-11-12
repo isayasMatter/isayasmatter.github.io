@@ -5,6 +5,8 @@ description: An open-source tool for monitoring data quality of HMD based eye tr
 img: /assets/img/gazemetrics.jpg
 github: https://github.com/isayasMatter/GazeMetrics
 pdf: https://dl.acm.org/doi/abs/10.1145/3379156.3391374
+redirect: true
+url: https://github.com/isayasMatter/GazeMetrics
 importance: 1
 category: research
 ---
