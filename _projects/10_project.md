@@ -1,8 +1,11 @@
 ---
 layout: page
-title: NLP for Tigrinya
+title: NLP Tools for Tigrinya
 description: Development of Natural Language Processing (NLP) tools for Tigrinya.
 img: /assets/img/3pp.jpg
+github:
+pdf:
+blog: true
 importance: 9
 category: other
 ---

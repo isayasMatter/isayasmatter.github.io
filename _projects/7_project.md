@@ -1,8 +1,11 @@
 ---
 layout: page
-title: Body Tracking + Navigation
-description: 3PP locomotion using full-body skeletal tracking with a single depth camera (Azure Kinect)
+title: VR Navigation with Full Body Tracking
+description: 3PP virtual locomotion using full-body skeletal tracking with a single depth camera (Azure Kinect) and an Oculus headset.
 img: /assets/img/3pp.jpg
+github:
+pdf: https://doi.org/10.20380/GI2021.24
+blog:
 importance: 7
 category: research
 ---

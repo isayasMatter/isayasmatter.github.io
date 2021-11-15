@@ -3,6 +3,9 @@ layout: page
 title: Spatial Learning in VR
 description: The effect of FOV restriction and sex on spatial learning in VR
 img: /assets/img/watermaze.jpg
+github: https://github.com/isayasMatter/Virtual-Morris-Water-Maze
+pdf: https://doi.org/10.1145/3448304
+blog:
 importance: 6
 category: research
 ---

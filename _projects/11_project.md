@@ -1,8 +1,11 @@
 ---
 layout: page
-title: Literary Works
-description: Children books and other literary works I have worked on over the years
-img: /assets/img/3pp.jpg
+title: Authored Books
+description: Children's books and other literary works I have co-authored over the years.
+img: /assets/img/books.jpg
+github:
+pdf:
+blog: true
 importance: 11
 category: other
 ---

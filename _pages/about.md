@@ -6,14 +6,14 @@ description: Ph.D. Candidate. <a href="https://www.unr.edu">University of Nevada
 
 profile:
   align: right
-  image: Isayas_Adhanom.jpg
+  image: isayas_smiling.jpg
   # address: >
   #   <p>1664 N. Virginia Street</p>
   #   <p>Department of Computer Science, MS 0171</p>
   #   <p>Reno, NV 89512</p>
 
-news: true # includes a list of news items
-selected_papers: true # includes a list of papers marked as "selected={true}"
+news: false # includes a list of news items
+selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 

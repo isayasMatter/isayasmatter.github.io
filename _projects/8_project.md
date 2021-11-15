@@ -2,7 +2,10 @@
 layout: page
 title: Macular Degeneration + VR
 description: 3PP locomotion using full-body skeletal tracking with a single depth camera (Azure Kinect)
-img: /assets/img/3pp.jpg
+img: /assets/img/macular-degeneration.jpg
+github: https://github.com/isayasMatter/ScotomaSimulator
+pdf:
+blog: true
 importance: 8
 category: research
 ---
