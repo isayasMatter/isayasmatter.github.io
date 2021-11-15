@@ -3,7 +3,7 @@ layout: page
 title: Eye Gaze Prediction
 description: Using deep learning to predict eye gaze for Facebook's OpenEDS 2020 challenge.
 img: /assets/img/openeds.jpg
-github:
+github: https://github.com/isayasMatter/Gaze-Prediction
 pdf:
 blog:
 importance: 11
