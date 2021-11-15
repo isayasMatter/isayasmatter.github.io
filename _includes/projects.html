@@ -1,10 +1,5 @@
 <div class="grid-item">
-  {% if project.redirect %}
-  <a href="{{ project.redirect }}">
-  {% else %}
-  <a href="{{ project.url | relative_url }}">
-  {% endif %}
-    <div class="card hoverable">
+  <div class="card hoverable">
       {% if project.img %}
       <img src="{{ project.img | relative_url }}" alt="project thumbnail">
       {% endif %}
@@ -28,19 +23,18 @@
           {% if project.pdf %}
             <div class="links">
               <div class="icon" data-toggle="tooltip" title="PDF">
-                <a class="btn btn-sm z-depth-0" href="{{ project.pdf }}" role="button"><i class="fab fa-file-pdf file-pdf"></i> PDF</a>
+                <a class="btn btn-sm z-depth-0" href="{{ project.pdf }}" role="button"><i class="fas fa-file-pdf file-pdf"></i> PDF</a>
               </div>
             </div>
           {% endif %}
-          {% if project.pdf %}
+          {% if project.blog %}
             <div class="links">
-              <div class="icon" data-toggle="tooltip" title="PDF">
-                <a class="btn btn-sm z-depth-0" href="{{ project.pdf }}" role="button"><i class="fas fa-blog blog"></i> Blog</a>
+              <div class="icon" data-toggle="tooltip" title="Notes">
+                <a class="btn btn-sm z-depth-0" href="{{ project.url | relative_url }}" role="button"><i class="fas fa-blog blog"></i> Notes</a>
               </div>
             </div>
           {% endif %}
         </div>
       </div>
     </div>
-  </a>
 </div>
