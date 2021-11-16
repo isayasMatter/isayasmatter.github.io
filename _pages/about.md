@@ -6,7 +6,7 @@ description: Ph.D. Candidate. <a href="https://www.unr.edu">University of Nevada
 
 profile:
   align: right
-  image: isayas_smiling.jpg
+  image: isayas_smiling.JPG
   # address: >
   #   <p>1664 N. Virginia Street</p>
   #   <p>Department of Computer Science, MS 0171</p>
