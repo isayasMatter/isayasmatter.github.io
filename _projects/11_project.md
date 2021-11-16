@@ -5,7 +5,7 @@ description: Children's books and other literary works I have co-authored over t
 img: /assets/img/books.jpg
 github:
 pdf:
-blog: true
+blog:
 importance: 11
 category: other
 ---

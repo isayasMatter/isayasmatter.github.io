@@ -5,7 +5,7 @@ description: In this project we are developing VR, eye tracking and machine lear
 img: /assets/img/7.jpg
 github:
 pdf:
-blog: https://github.com/isayasMatter/GazeMetrics
+blog:
 importance: 3
 category: research
 ---

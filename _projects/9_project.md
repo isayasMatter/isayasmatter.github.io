@@ -1,11 +1,11 @@
 ---
 layout: page
 title: E-Learning in Tigrinya
-description: Development of lessons in Tigrinya for grades 6-9.
-img: /assets/img/3pp.jpg
+description: Development of digital learning tools in Tigrinya for grades 6-9.
+img: /assets/img/binogi.jpg
 github:
 pdf:
-blog: https://github.com/isayasMatter/GazeMetrics
+blog:
 importance: 10
 category: other
 ---

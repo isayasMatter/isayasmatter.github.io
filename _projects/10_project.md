@@ -2,12 +2,12 @@
 layout: page
 title: NLP Tools for Tigrinya
 description: Development of Natural Language Processing (NLP) tools for Tigrinya.
-img: /assets/img/3pp.jpg
+img: /assets/img/neural-machine-translation.png
 github:
 pdf:
 blog: true
 importance: 9
-category: other
+category: research
 ---
 
 Every project has a beautiful feature showcase page.

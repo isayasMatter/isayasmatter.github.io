@@ -361,12 +361,12 @@ footer.sticky-bottom {
   }
 
   h2.category {
-    color: $grey-color-light;
-    border-bottom: 1px solid $grey-color-light;
+    color: $grey-color;
+    border-bottom: 1px solid $grey-color;
     padding-top: 0.5rem;
     margin-top: 2rem;
     margin-bottom: 1rem;
-    text-align: right;
+    text-align: left;
   }
 
   .links {
@@ -403,12 +403,12 @@ footer.sticky-bottom {
     }
   }
   h2.year {
-    color: $grey-color-light;
-    border-top: 1px solid $grey-color-light;
-    padding-top: 1rem;
+    color: $grey-color;
+    border-bottom: 1px solid $grey-color;
+    padding-bottom: 0.5rem;
     margin-top: 2rem;
-    margin-bottom: -2rem;
-    text-align: right;
+    // margin-bottom: -2rem;
+    text-align: left;
   }
   ol.bibliography {
     list-style: none;

@@ -1,11 +1,11 @@
 ---
 layout: page
 title: Foveated FOV
-description: A novel gaze contingent (foveated) field-of-view (FOV) restrictor that blocks the peripheral visual field while still allowing the user to experince the full view in VR.
+description: A novel gaze contingent (foveated) field-of-view (FOV) restrictor that blocks the peripheral visual field while still allowing the user to experience the full view in VR.
 img: /assets/img/foveated.jpg
 github:
 pdf: https://ieeexplore.ieee.org/abstract/document/9089437
-blog: https://github.com/isayasMatter/GazeMetrics
+blog:
 importance: 2
 category: research
 ---
