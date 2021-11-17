@@ -6,6 +6,7 @@ description: A few of my projects.
 nav: true
 display_categories: [research, other]
 horizontal: false
+order: 2
 ---
 
 <div class="projects">
