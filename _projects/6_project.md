@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Spatial Learning in VR
-description: The effect of FOV restriction and sex on spatial learning in VR
+title: The effect of FOV restriction on VR sickness and spatial navigation performance and its interaction with sex
+description: In a series of projects (and publications) we investigate the effect of field-of-view (FOV) restriction on sex bias in VR sickness and spatial navigation performance.
 img: /assets/img/watermaze.jpg
 github: https://github.com/isayasMatter/Virtual-Morris-Water-Maze
 pdf: https://doi.org/10.1145/3448304
@@ -9,6 +9,8 @@ blog:
 importance: 6
 category: research
 ---
+
+https://doi.org/10.1145/3290605.3300584
 
 Every project has a beautiful feature showcase page.
 It's easy to include images in a flexible 3-column grid format.
@@ -25,7 +27,7 @@ To give your project a background in the portfolio page, just add the img tag to
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        <img class="img-fluid rounded z-depth-1" src="{{ '/assets/img/1.jpg' | relative_url }}" alt="" title="example image"/>
+        <img class="img-fluid rounded z-depth-1" src="{{ '/assets/img/sickness.jpg' | relative_url }}" alt="" title="example image"/>
     </div>
     <div class="col-sm mt-3 mt-md-0">
         <img class="img-fluid rounded z-depth-1" src="{{ '/assets/img/3.jpg' | relative_url }}" alt="" title="example image"/>

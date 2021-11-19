@@ -5,7 +5,7 @@ description: Development of Natural Language Processing (NLP) tools for Tigrinya
 img: /assets/img/neural-machine-translation.png
 github:
 pdf:
-blog: true
+blog:
 importance: 9
 category: research
 ---
