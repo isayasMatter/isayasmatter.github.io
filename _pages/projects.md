@@ -5,7 +5,7 @@ permalink: /projects/
 description: A few of my projects.
 nav: true
 display_categories: [research, other]
-horizontal: false
+horizontal: true
 order: 2
 ---
 
@@ -19,7 +19,7 @@ order: 2
       <!-- Generate cards for each project -->
       {% if page.horizontal %}
         <div class="container">
-          <div class="row row-cols-2">
+          <div class="row row-cols-1">
           {% for project in sorted_projects %}
             {% include projects_horizontal.html %}
           {% endfor %}
@@ -42,7 +42,7 @@ order: 2
     <!-- Generate cards for each project -->
     {% if page.horizontal %}
       <div class="container">
-        <div class="row row-cols-2">
+        <div class="row row-cols-1">
         {% for project in sorted_projects %}
           {% include projects_horizontal.html %}
         {% endfor %}
