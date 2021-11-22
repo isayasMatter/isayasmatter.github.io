@@ -16,7 +16,7 @@ order: 3
         <h6 class="card-subtitle font-italic">Spring 2021: Co-Lecturer</h6>
         <p class="card-text mt-2">            
             This is a combined undergraduate/graduate level class that introduces students to the field of Virtual Reality. Topics covered in this class include the geometry of virtual words and 3D modeling; graphic rendering of virtual worlds; physiology and perception of vision and hearing; tracking systems and interaction design. In this course, I prepared and taught lectures, advised students, and prepared and graded exams. Classes I taught include tracking systems and VR application development with Unity.
-            <h6> Slides</h6>
+            <h6> Some Slides from my Lectures</h6>
             <ul>
                 <li><a href="{{ 'tracking_systems_1.pdf' | prepend: '/assets/pdf/' | relative_url }}">Tracking Systems 1</a></li>
                 <li><a href="{{ 'tracking_systems_2.pdf' | prepend: '/assets/pdf/' | relative_url }}">Tracking Systems 2</a></li>
