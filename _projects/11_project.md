@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Authored Books
-description: Children's books and other literary works I have co-authored over the years.
+description: As a speaker of a very low resourced languages - Tigrinya - I grew up without access to reading materials, especially during the early child hood years. To alleviate this problem I have worked with some authors to adapt children's books to Tigrinya.
 img: /assets/img/books.jpg
 github:
 pdf:
@@ -10,11 +10,7 @@ importance: 11
 category: other
 ---
 
-Every project has a beautiful feature showcase page.
-It's easy to include images in a flexible 3-column grid format.
-Make your photos 1/3, 2/3, or full width.
-
-To give your project a background in the portfolio page, just add the img tag to the front matter like so:
+As a speaker of a very low resourced languages - Tigrinya - I grew up without access to reading materials, especially during the early child hood years. To alleviate this problem I have worked with some authors to adapt children's books to Tigrinya.
 
     ---
     layout: page
