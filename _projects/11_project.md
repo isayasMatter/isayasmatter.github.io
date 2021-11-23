@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Authored Books
-description: As a speaker of a very low resourced languages - Tigrinya - I grew up without access to reading materials, especially during the early child hood years. To alleviate this problem I have worked with some authors to adapt children's books to Tigrinya.
+description: As a speaker of a very low resourced language - Tigrinya - I grew up without access to reading materials, especially during the early child hood years. To alleviate this problem, I have worked with some authors to adapt children's books to Tigrinya. You can check on Amazon some of the recently published storybooks <a href="https://amzn.to/3dXVMX1">here</a> and <a href="https://amzn.to/3sWssUP">here</a>.
 img: /assets/img/books.jpg
 github:
 pdf:

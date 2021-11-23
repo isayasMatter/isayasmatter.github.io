@@ -1,7 +1,7 @@
 ---
 layout: page
 title: NLP Tools for Tigrinya
-description: Development of Natural Language Processing (NLP) tools for Tigrinya.
+description: I have conducted preliminary research and developed experimental models for Neural Machine Translation for Tigrinya (my native language) and published my research through a pre-print  <a href="http://dx.doi.org/10.13140/RG.2.2.10698.90562">here</a>. I have also collaborated with researchers at UNR exploring vowel duration and phonological contrast of vowel duration in Tigrinya.
 img: /assets/img/neural-machine-translation.png
 github:
 pdf:
