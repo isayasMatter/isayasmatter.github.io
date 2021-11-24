@@ -8,10 +8,9 @@ middle_name: Berhe
 last_name: Adhanom
 email: iadhanom@nevada.unr.edu
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
-  A simple, whitespace theme for academics. Based on [*folio](https://github.com/bogoli/-folio) design.
+  The personal site of Isayas Berhe Adhanom.
 footer_text: >
   Powered by <a href="http://jekyllrb.com/" target="_blank">Jekyll</a> with <a href="https://github.com/alshedivat/al-folio">al-folio</a> theme.
-  Hosted by <a href="https://pages.github.com/" target="_blank">GitHub Pages</a>.
 
 icon: # the emoji used as the favicon
 url: https://www.isayasadhanom.me # the base hostname & protocol for your site

@@ -5,7 +5,7 @@ title: publications
 description: publications by categories in reversed chronological order.
 years: [2021, 2020, 2019]
 types:
-  [journal articles, conference papers, posters, works in review, preprints]
+  [conference papers, journal articles, posters, works in review, preprints]
 nav: true
 order: 1
 ---
