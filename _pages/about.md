@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-description: Ph.D. Candidate. <a href="https://www.unr.edu">University of Nevada, Reno</a>.
+description: President's Postdoctoral Fellow. <a href="https://www.unr.edu">University of Nevada, Reno</a>.
 
 profile:
   align: right
