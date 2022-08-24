@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-description: President's Postdoctoral Fellow. <a href="https://www.unr.edu">University of Nevada, Reno</a>.
+description: President's Postdoctoral Fellow at <a href="https://www.umn.edu">University of Minnesota</a>.
 
 profile:
   align: right
