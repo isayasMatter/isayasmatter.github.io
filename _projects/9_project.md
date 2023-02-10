@@ -8,6 +8,7 @@ pdf:
 blog: true
 importance: 10
 category: other
+visible: false
 ---
 
 After completing the junior year of my undergraduate degree, I decided to do community service as an Information and Communication Technology (ICT) teacher at Dekemhare Secondary School, in Eritrea, one of the most impoverished parts of Africa. During my time as an ICT teacher I observed that the lack of educational resources in local or native languages in developing countries was one of the biggest hurdles to creating an equitable learning environment. So, to alleviate this, I have been actively engaged in developing curricular materials for my native language, Tigrinya.
