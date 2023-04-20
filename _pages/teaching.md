@@ -9,6 +9,7 @@ order: 3
 
 <div class="teaching">
  
+<h4> University of Minnesota</h4>
 <div class="card mt-3">
     <div class="card-body">
         <h5 class="card-title">CSCI 5619 - Virtual Reality and 3D Interaction</h5>
