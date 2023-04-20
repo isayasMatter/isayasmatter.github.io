@@ -15,7 +15,7 @@ order: 3
         <h5 class="card-title">CSCI 5619 - Virtual Reality and 3D Interaction</h5>
         <h6 class="card-subtitle font-italic">Fall 2022: Guest Lecturer</h6>
         <p class="card-text mt-2">   
-             I gave a guest lecture on the application of eye movement tracking in virtual reality, and the current challenges that need to be solved in the sub-field.
+             I gave a guest lecture on the applications of eye movement tracking in virtual reality, and the current challenges that need to be solved in the sub-field.
         </p>
     </div>
 </div>
