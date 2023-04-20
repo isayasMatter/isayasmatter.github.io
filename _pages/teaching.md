@@ -10,7 +10,7 @@ order: 3
 <div class="teaching">
  
 <h4> University of Minnesota</h4>
-<div class="card mt-3">
+<div class="card mt-3 mb-4">
     <div class="card-body">
         <h5 class="card-title">CSCI 5619 - Virtual Reality and 3D Interaction</h5>
         <h6 class="card-subtitle font-italic">Fall 2022: Guest Lecturer</h6>
@@ -18,6 +18,7 @@ order: 3
              I gave a guest lecture on the applications of eye movement tracking in virtual reality, and the current challenges that need to be solved in the sub-field.
         </p>
     </div>
+ 
 </div>
 
 <h4> University of Nevada, Reno</h4>
