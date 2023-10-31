@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Awarded the Spring 2022 Outstanding Ph.D. dissertation award at UNR.
+I have been awarded the Spring 2022 Outstanding Ph.D. Dissertation award at the Department of Computer Science and Engineering at UNR.

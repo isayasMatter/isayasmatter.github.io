@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-I attended the PPFP annual Fall Meeting at Oakland, CA.
+I attended the PPFP annual Fall Meeting in Oakland, CA.

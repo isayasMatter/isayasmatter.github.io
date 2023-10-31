@@ -5,5 +5,5 @@ inline: true
 related_posts: false
 ---
 
-Our paper was presented at IEEE VR 2023.
+Our paper "Like a Rolling Stone: Effects of Space Deformation During Linear Acceleration on Slope Perception and Cybersickness" was presented at IEEE VR 2023.
 

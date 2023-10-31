@@ -1,8 +1,8 @@
 ---
 layout: post
-date: 2023-08-22 07:59:00-0400
+date: 2022-06-30 07:59:00-0400
 inline: true
 related_posts: false
 ---
 
-Gave a guest lecture on the Applications of Eye Tracking in VR.
+I have been awarded the President's Postdoctoral Fellowship at the University of Minnesota.

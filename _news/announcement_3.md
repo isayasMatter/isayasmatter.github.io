@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-I successfully co-organized and lead the IEEE VR WISP workshop.
+I successfully co-organized and lead the WISP workshop at IEEE VR '23.
