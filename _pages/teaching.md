@@ -13,6 +13,14 @@ order: 3
 <div class="card mt-3 mb-4">
     <div class="card-body">
         <h5 class="card-title">CSCI 5619 - Virtual Reality and 3D Interaction</h5>
+        <h6 class="card-subtitle font-italic">Fall 2023: Guest Lecturer</h6>
+        <p class="card-text mt-2">   
+             I delivered a guest lecture on the topic of simulator sickness in virtual reality (VR), exploring the underlying theories behind its causes and sharing essential guidelines for creating VR environments that minimize or eliminate the risk of inducing VR sickness.
+        </p>
+    </div>
+ 
+    <div class="card-body">
+        <h5 class="card-title">CSCI 5619 - Virtual Reality and 3D Interaction</h5>
         <h6 class="card-subtitle font-italic">Fall 2022: Guest Lecturer</h6>
         <p class="card-text mt-2">   
              I gave a guest lecture on the applications of eye movement tracking in virtual reality, and the current challenges that need to be solved in the sub-field.
