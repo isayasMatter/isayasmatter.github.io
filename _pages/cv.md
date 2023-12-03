@@ -4,6 +4,6 @@ title: cv
 permalink: /cv/
 description: CV
 nav: true
-file_name: "CV__Isayas_Adhanom.pdf"
+file_name: "CV__Isayas_Berhe_Adhanom.pdf"
 order: 4
 ---
