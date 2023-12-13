@@ -6,7 +6,7 @@ description: President's Postdoctoral Fellow at <a href="https://www.umn.edu">Un
 
 profile:
   align: right
-  image: isayas_smiling.JPG
+  image: headshot.JPG
   # address: >
   #   <p>1664 N. Virginia Street</p>
   #   <p>Department of Computer Science, MS 0171</p>
