@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Gave an invited guest lecture on the Applications of Eye Tracking in VR in Dr. Victoria Interrante's VR class at the University of Minnesota.
+I gave a guest lecture on the Applications of Eye Tracking in VR in Dr. Victoria Interrante's CSCI 5619 - Virtual Reality and 3D Interaction class.

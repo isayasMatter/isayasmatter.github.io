@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-I got invited to serve as a Program Committee member for IEEE VR 2024.
+I have been invited to serve as a Program Committee member for IEEE VR 2024.

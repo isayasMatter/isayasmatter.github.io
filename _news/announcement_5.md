@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-I served as a research mentor for the REU 2023 Summer program at the University of Minnesota.
+I served as a research mentor for the [REU 2023 Summer](https://reu.cs.umn.edu/) program at the University of Minnesota.
