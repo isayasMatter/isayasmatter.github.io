@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://www.isayasadhanom.me/sitemap.xml
+Sitemap: /al-folio/sitemap.xml
